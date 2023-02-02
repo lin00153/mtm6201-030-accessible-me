@@ -43,14 +43,6 @@ a:focus {
   border: 3px solid red;
   outline: none;
 }
-.top-btn {
-  background: black;
-  color: white;
-  padding: 0.5rem;
-  position: fixed;
-  bottom: 0.25rem;
-  right: 0.25rem;
-}
 
 img {
   width: 100%;
